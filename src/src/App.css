@@ -1,0 +1,58 @@
+header {
+  border-bottom: 0.5em solid black;
+  margin-bottom: 1em;
+}
+
+header img {
+  height: 3em;
+  display: inline-block;
+  margin-top: 1em;
+  padding-right: 1em;
+}
+
+header h1 {
+  display: inline-block;
+}
+
+body {
+  width: 90%;
+  margin: 0 auto;
+}
+
+button {
+	min-height: 40px;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.flex-container {
+	display: flex
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+.removeAnchorStyles {
+	cursor: pointer;
+}
+
+.removeAnchorStyles:link {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+.removeAnchorStyles:visited {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+.app-logo {
+	    min-height: 80px;
+}
+
+.tooltip {
+	
+}

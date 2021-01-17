@@ -1,0 +1,16 @@
+{
+  "name": "gecko-practical-full-stack",
+  "version": "1.0.0",
+  "description": "Hi there! We're excited that you're interviewing with Gecko. 😀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/JCBcaw/gecko-practical-front-end.git"
+  },
+  "author": "robertcawbrush",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/JCBcaw/gecko-practical-front-end#readme"
+}

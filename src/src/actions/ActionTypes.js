@@ -1,0 +1,6 @@
+const ACTION_TYPES = {
+	GET_EVENTS: "GET_EVENTS",
+	GET_GRID_DATA: "GET_GRID_DATA"
+}
+
+export default ACTION_TYPES;
