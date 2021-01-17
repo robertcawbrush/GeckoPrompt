@@ -21,7 +21,7 @@ export function loadEvents() {
 
 	// method that uses mock data
 	api
-    .fetchMockEdatavents()
+    .fetchMockEvents()
     .then((events) => {
       dispatcher.dispatch({
         actionType: actionTypes.GET_EVENTS,
